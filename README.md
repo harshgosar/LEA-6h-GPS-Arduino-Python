@@ -48,4 +48,5 @@ Thanks to,
 *GitHub and Instructables to provide platform to store and share this project
 *Google and YouTube to search and provide useful information
 *Glenn Baddeley's website http://aprs.gids.nl/nmea to understand NMEA sentances
+*NovATel (https://docs.novatel.com/OEM7/Content/Logs/Core_Logs.htm?tocpath=Logs%7CView%20Logs%7CCore%20Logs%7C_____0)
 
