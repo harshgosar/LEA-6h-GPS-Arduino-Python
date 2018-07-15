@@ -1,6 +1,6 @@
 /*******************************
 Author:          Harsh Gosar (harshgosar0@gmail.com)
-Description:     To test ublox LEA 6H GPS module 
+Description:     To read response from ublox LEA 6H GPS module 
 Created Date:    12-MAY-2018
 Version:         1.0
 Supported board: Arduino UNO, Mega 2560 or board that supports hardware serial ports
